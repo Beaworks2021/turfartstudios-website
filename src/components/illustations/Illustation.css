@@ -1,0 +1,29 @@
+.illus {
+  min-width: 100%;
+  margin-top: 20px;
+  padding: 0;
+  overflow: scroll;
+}
+
+/* .container {
+  display: flex;
+  flex: 100;
+} */
+
+/* .imgsize {
+  width: 500px;
+} */
+
+/* .imgCont {
+  display: flex;
+} */
+
+/* .left {
+ 
+  margin: auto;
+}
+
+.right {
+  
+  justify-content: space-around;
+} */

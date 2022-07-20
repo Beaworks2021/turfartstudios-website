@@ -1,0 +1,65 @@
+.mainV {
+  min-width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.rightside {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: scroll;
+}
+
+.leftside {
+  height: 100% vh;
+  display: flex;
+  flex-direction: column;
+
+  /* background-color: rgb(223, 234, 14); */
+}
+.itemscont {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  /* background-color: rgb(21, 12, 185); */
+}
+.logoimg {
+  width: 180px;
+  margin: 70px 0;
+}
+
+.menucontainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-content: space-around;
+  height: 100%;
+  /* align-items: center; */
+  margin: 0px;
+  padding: 0px;
+}
+
+.abticon {
+  color: rgb(89, 90, 90);
+  display: flex;
+  font-size: 20px;
+  margin: 5px;
+}
+.abticon:hover {
+  color: #fff;
+}
+
+.abticons1 {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+/* .bb1 {
+  background-color: rgb(71, 195, 10);
+} */

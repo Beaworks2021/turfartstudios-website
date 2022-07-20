@@ -1,0 +1,47 @@
+.mainV {
+  width: 100%;
+}
+
+.abtimg {
+  width: 250px;
+  margin: 40px;
+}
+
+.itemscont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.abttitle {
+  color: white;
+  font-weight: 300;
+}
+
+.abtparagraph {
+  color: white;
+  text-align: center;
+  font-weight: 300;
+  font-size: 15px;
+}
+
+.textcol {
+  color: aquamarine;
+}
+
+.abticons {
+  font-size: 30px;
+  color: aquamarine;
+}
+
+.abticons:hover {
+  color: white;
+}
+
+.abtCol {
+  display: flex;
+  justify-content: space-around;
+  color: aquamarine;
+  margin-top: 40px;
+}

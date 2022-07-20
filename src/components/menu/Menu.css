@@ -1,0 +1,16 @@
+.Menu {
+  cursor: pointer;
+  font-size: 15px;
+  color: rgb(116, 115, 115);
+  list-style: none;
+  text-align: center;
+}
+
+.Menu:hover {
+  font-size: 14px;
+  color: white;
+}
+
+.active {
+  color: rgb(255, 255, 255);
+}
