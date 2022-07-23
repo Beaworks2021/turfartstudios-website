@@ -41,39 +41,27 @@ const About = () => {
               >
                 <GrFacebookOption />
               </a>
-              <a
-                className="abticons"
-                href="https://www.facebook.com/Turf-101277068653192"
-              >
+              <a className="abticons" href="https://twitter.com/ed_turf">
                 <BsTwitter />
               </a>
-              <a
-                className="abticons"
-                href="https://www.facebook.com/Turf-101277068653192"
-              >
+              <a className="abticons" href="https://www.instagram.com/turf_gh/">
                 <BsInstagram />
               </a>
-              <a
-                className="abticons"
-                href="https://www.facebook.com/Turf-101277068653192"
-              >
+              <a className="abticons" href="https://www.behance.net/kingturf">
                 <BsBehance />
               </a>
-              <a
-                className="abticons"
-                href="https://www.facebook.com/Turf-101277068653192"
-              >
+              <a className="abticons" href="https://www.behance.net/kingturf">
                 <GrLinkedinOption />
               </a>
               <a
                 className="abticons"
-                href="https://www.facebook.com/Turf-101277068653192"
+                href="https://www.youtube.com/channel/UCOytrnOoN09MjaXzaI_Xc0A/featured"
               >
                 <BsYoutube />
               </a>
               <a
                 className="abticons"
-                href="https://www.facebook.com/Turf-101277068653192"
+                href="https://api.whatsapp.com/send/?phone=233245785022&text&app_absent=0"
               >
                 <BsWhatsapp />
               </a>

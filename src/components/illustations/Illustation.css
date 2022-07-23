@@ -3,8 +3,16 @@
   margin-top: 20px;
   padding: 0;
   overflow: scroll;
+  background-color: black;
+  min-height: 100%;
+  display: flex;
+  position: relative;
 }
 
+/* .imgcontainer {
+  display: flex;
+  position: absolute;
+} */
 /* .container {
   display: flex;
   flex: 100;

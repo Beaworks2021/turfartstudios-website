@@ -81,13 +81,13 @@ const MainView = () => {
                     </a>
                     <a
                       className="abticon"
-                      href="https://www.facebook.com/Turf-101277068653192"
+                      href="https://www.instagram.com/turf_gh/"
                     >
                       <BsInstagram className="abticon" />
                     </a>
                     <a
                       className="abticon"
-                      href="https://www.facebook.com/Turf-101277068653192"
+                      href="https://www.behance.net/kingturf"
                     >
                       <BsBehance className="abticon" />
                     </a>

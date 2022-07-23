@@ -7,7 +7,7 @@ const TwoDanimations = () => {
       <div className="row comesoon">
         <div className="col-md-4"></div>
         <div className="col-md-4 middlecont">
-          <h1>COMING SOON :)</h1>
+          <h1 className="text2">COMING SOON :)</h1>
         </div>
         <div className="col-md-4"></div>
       </div>

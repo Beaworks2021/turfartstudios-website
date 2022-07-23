@@ -5,9 +5,8 @@
   align-items: center;
   justify-content: center;
 }
-
-h1 {
-  text-align: center;
+.text2 {
+  color: rgb(71, 38, 3);
 }
 
 /* .middlecont {

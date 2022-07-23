@@ -6,6 +6,11 @@
   justify-content: center;
 }
 
-h1 {
+/* h1 {
   text-align: center;
+  color: rgb(4, 136, 94);
+} */
+
+.text1 {
+  color: rgb(5, 86, 47);
 }
